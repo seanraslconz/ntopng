@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # The is the address of the router
-FRITZIP=http://192.168.2.1
+FRITZIP=http://109.110.10.1
 FRITZPWD=$1
 # This is the WAN interface
 #IFACE="2-0"
